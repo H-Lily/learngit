@@ -1,0 +1,44 @@
+{"frames": {
+
+"cell.png":
+{
+	"frame": {"x":771,"y":2,"w":65,"h":76},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":65,"h":76},
+	"sourceSize": {"w":65,"h":76}
+},
+"cup-close.png":
+{
+	"frame": {"x":771,"y":146,"w":33,"h":33},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":33,"h":33},
+	"sourceSize": {"w":33,"h":33}
+},
+"face.png":
+{
+	"frame": {"x":771,"y":80,"w":64,"h":64},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":64,"h":64},
+	"sourceSize": {"w":64,"h":64}
+},
+"tipbg.png":
+{
+	"frame": {"x":2,"y":2,"w":589,"h":767},
+	"rotated": true,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":589,"h":767},
+	"sourceSize": {"w":589,"h":767}
+}},
+"meta": {
+	"app": "http://www.texturepacker.com",
+	"version": "1.0",
+	"image": "tea.png",
+	"format": "RGBA8888",
+	"size": {"w":838,"h":593},
+	"scale": "1",
+	"smartupdate": "$TexturePacker:SmartUpdate:c85c895473c32dacb0d66210618e1371$"
+}
+}
